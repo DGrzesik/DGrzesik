@@ -1,4 +1,4 @@
-# Hey there👋,<br/>
+# Hey there👋<br/>
 
 My name is **Dominik** and I am currently a third-year Computer Science student at **AGH University of Science and Technology**<br/>
 
