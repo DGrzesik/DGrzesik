@@ -44,7 +44,7 @@ My name is **Dominik** and I am currently a third-year Computer Science student 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGrzesik&theme=onedark&langs_count=7&hide_title=true" />
 </a>
 
-⚡About me:<br/>
+<br>⚡About me:<br/>
   - into sailing⛵ and skiing⛷
   - big EDM fan🎶
   - sometimes wasting time on Valorant🎮
