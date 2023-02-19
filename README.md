@@ -44,7 +44,9 @@ My name is **Dominik** and I am currently a third-year Computer Science student 
 
 📝Statistically: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGrzesik&layout=compact&theme=dracula&langs_count=6)
+<a href="#choose-pinned-repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGrzesik&theme=onedark&langs_count=7&hide_title=true" />
+</a>
 
 ⚡About me:<br/>
   - into sailing⛵ and skiing⛷
