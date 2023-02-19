@@ -12,12 +12,8 @@ My name is **Dominik** and I am currently a third-year Computer Science student 
   <a href="https://github.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png" width="40" height="40"/> 
   </a> 
-  <a href="https://html.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.css3.pl/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.w3.org/TR/html5/"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
+<a href="https://www.w3.org/TR/CSS/"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
   </a> 
