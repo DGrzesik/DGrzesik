@@ -18,8 +18,10 @@ My name is **Dominik** and I am currently a third-year Computer Science student 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
   </a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <a href="https://www.mongodb.com/" title="MongoDb">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  </a>
+   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/> 
   </a> 
   <a href="https://www.javascript.com/" target="_blank"> 
