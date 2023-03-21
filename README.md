@@ -55,7 +55,8 @@ My name is **Dominik** and I am currently a third-year Computer Science student 
 📱Contact me:<br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dominik.grzesik.5 "My Facebook")
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='facebook' height='40'>](https://www.discordapp.com/users/362615038126587905 "My Discord")
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.discordapp.com/users/362615038126587905 "My Discord")
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dominik-grzesik "My LinkedIn")
 
 <!--
 **DGrzesik/DGrzesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
