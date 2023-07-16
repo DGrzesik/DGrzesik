@@ -44,7 +44,7 @@ My name is **Dominik** and I am currently a third-year Computer Science student 
 📝Statistically: 
 
 <a href="#choose-pinned-repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGrzesik&theme=onedark&langs_count=7&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGrzesik&theme=onedark&hide=jupyter%20notebook&langs_count=7&hide_title=true" />
 </a>
 
 <br>⚡About me:<br/>
