@@ -5,10 +5,10 @@ My name is **Dominik** and I am currently a third-year Computer Science student 
 **Technologies and languages I have worked with:**<br/>
 
 <p align="left">
-  <a href="https://www.python.org/" ><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px">    </a>
   <a href="www.java.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.python.org/" ><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px">    </a> 
   <a href="https://github.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png" width="40" height="40"/> 
   </a> 
