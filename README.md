@@ -1,6 +1,6 @@
 # Hey there👋<br/>
 
-My name is **Dominik** and I am currently a third-year Computer Science student at **AGH University of Science and Technology**<br/>
+My name is **Dominik** and I am currently a fourth-year Computer Science student at **AGH University of Science and Technology**<br/>
 
 **Technologies and languages I have worked with:**<br/>
 
