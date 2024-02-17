@@ -1,6 +1,6 @@
 # Hey there👋<br/>
 
-My name is **Dominik** and I am currently a fourth-year Computer Science student at **AGH University of Science and Technology**<br/>
+My name is **Dominik** and I am currently beginning my **2nd-degree** studies at **AGH University of Science and Technology**<br/>
 
 **Technologies and languages I have worked with:**<br/>
 
@@ -8,7 +8,25 @@ My name is **Dominik** and I am currently a fourth-year Computer Science student
   <a href="www.java.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
   </a>
-  <a href="https://www.python.org/" ><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px">    </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" ><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px">    </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
   <a href="https://github.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png" width="40" height="40"/> 
   </a> 
@@ -24,9 +42,6 @@ My name is **Dominik** and I am currently a fourth-year Computer Science student
    <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  </a> 
   <a href="https://www.scala-lang.org/" title="Scala"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width="40" height="40"/>
   </a>
@@ -41,18 +56,18 @@ My name is **Dominik** and I am currently a fourth-year Computer Science student
   </a> 
 </p>
 
-📝Statistically: 
+📝**Statistically**: 
 
 <a href="#choose-pinned-repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGrzesik&theme=onedark&hide=jupyter%20notebook&langs_count=7&hide_title=true" />
 </a>
 
-<br>⚡About me:<br/>
+<br>⚡**About me:**<br/>
   - into sailing⛵ and skiing⛷
   - big EDM fan🎶
   - sometimes wasting time on Valorant🎮
 
-📱Contact me:<br/>
+📱**Contact me:**<br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dominik.grzesik.5 "My Facebook")
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.discordapp.com/users/362615038126587905 "My Discord")
