@@ -1,6 +1,6 @@
 # Hey there👋<br/>
 
-My name is Dominik and I am currently a **Computer Science - Data Science** </br> Master's degree student at **AGH University of Science and Technology**!
+My name is Dominik and I am currently a **Computer Science** </br> Master's degree student at **AGH University of Science and Technology**!
 
 **Technologies and languages I have worked with:**<br/>
 
