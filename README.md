@@ -1,12 +1,15 @@
 # Hey there👋<br/>
 
-My name is Dominik and I am currently a **Computer Science** Master's degree student at **AGH University of Science and Technology**! </br>
+My name is Dominik and I am currently a **Computer Science - Data Science** Master's degree student at <br> **AGH University of Science and Technology**! </br>
 
 **Technologies and languages I have worked with:**<br/>
 
 <p align="left">
   <a href="www.java.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org/" >
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px">
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
@@ -20,7 +23,6 @@ My name is Dominik and I am currently a **Computer Science** Master's degree stu
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" ><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px">    </a>
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
   </a> 
@@ -33,10 +35,10 @@ My name is Dominik and I am currently a **Computer Science** Master's degree stu
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  </br>
   <a href="https://github.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png" width="40" height="40"/> 
   </a>
-  </br>
   <a href="https://www.w3.org/TR/html5/">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px">
   </a>
@@ -61,10 +63,7 @@ My name is Dominik and I am currently a **Computer Science** Master's degree stu
   </a> 
   <a href="https://www.r-project.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
-  </a> 
+  </a>
 </p>
 
 📝**What I use most?**: 
