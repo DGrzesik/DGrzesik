@@ -81,7 +81,6 @@ My name is Dominik and I am currently a **Computer Science - Data Science** Mast
 📱**Contact me:**</br></br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dominik-grzesik "My LinkedIn")
 </br></br>
-📫or email me directly! - **dominik2.grzesik@gmail.com**
 <!--
 **DGrzesik/DGrzesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
